@@ -51,6 +51,6 @@ site:
     title: A Hoarders Notes
     description: Personal knowledge space
     siteUrl: https://mkell43.github.io
-    siteAssets: a-hoarders-notes
+    assetsPrefix:  a-hoarders-notes
 initializeRemoteVaults: true
 ```
