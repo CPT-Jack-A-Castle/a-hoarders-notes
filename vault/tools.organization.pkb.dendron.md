@@ -6,6 +6,12 @@ updated: 1626041256187
 created: 1626041256187
 ---
 
+## Gotchas
+
+### Site Build Command
+
+- I have noticed that re-building after editing the `dendron.yml` file doesn't always cause the changes to be picked up. For example: Changing the value of the `site.assetsPrefix` key didn't get picked up and I had to delete the `docs` directory and re-run the `Dendron: Site Build` command. Might be best to have the directory destroyed before building each time.
+
 ## Publishing
 
 ### Github
