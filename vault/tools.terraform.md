@@ -8,6 +8,10 @@ created: 1626033801495
 
 Snippets, docs, guides, and other miscellaneous Terraform information please see the [[iac.terraform]] page in [[iac]].
 
+## Links & Awesome Lists
+
+- [Everything I Know | devops/terraform](https://wiki.nikitavoloboev.xyz/devops/terraform#links)
+
 ## Cost Management
 
 ### Infracost
