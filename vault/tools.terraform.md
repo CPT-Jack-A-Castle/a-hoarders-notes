@@ -16,8 +16,7 @@ Snippets, docs, guides, and other miscellaneous Terraform information please see
 
 ### Infracost
 
-<https://www.infracost.io/>
-<https://www.infracost.io/docs/>
+<https://www.infracost.io/> | <https://www.infracost.io/docs/>
 
 Estimates costs based off of `terraform plan` output (as far as I can tell). Looking at their [supported resources page](https://www.infracost.io/docs/supported_resources) it doesn't seem that they support every GCP resource type or things like sustained use and commitment discounts. That doesn't mean there wouldn't be value in integrating it into CI.
 
