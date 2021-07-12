@@ -13,7 +13,7 @@ Terraform is a tool for defining your infrastructure declaratively (though, I wo
 
 ### Terraform tips & tricks: loops, if-statements, and gotchas
 
-https://blog.gruntwork.io/terraform-tips-tricks-loops-if-statements-and-gotchas-f739bbae55f9
+<https://blog.gruntwork.io/terraform-tips-tricks-loops-if-statements-and-gotchas-f739bbae55f9>
 
 ----
 

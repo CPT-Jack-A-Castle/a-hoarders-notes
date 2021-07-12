@@ -10,23 +10,23 @@ created: 1626064507240
 
 ### Commitzen
 
-https://github.com/commitizen/cz-cli
+<https://github.com/commitizen/cz-cli>
 
 Enforce commit conventions.
 
-**GitHub Topic**: https://github.com/topics/commitizen
+**GitHub Topic**: <https://github.com/topics/commitizen>
 
 #### Adapters
 
-**GitHub Topic**: https://github.com/topics/commitizen-adapter
+**GitHub Topic**: <https://github.com/topics/commitizen-adapter>
 
 ### Gitflow AVH
 
-https://github.com/petervanderdoes/gitflow-avh
+<https://github.com/petervanderdoes/gitflow-avh>
 
 > AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
 
-http://nvie.com/posts/a-successful-git-branching-model/
+<http://nvie.com/posts/a-successful-git-branching-model/>
 
 ## Hooks
 
@@ -36,7 +36,7 @@ http://nvie.com/posts/a-successful-git-branching-model/
 
 ### Talisman
 
-https://github.com/thoughtworks/talisman
+<https://github.com/thoughtworks/talisman>
 
 > A tool to detect and prevent secrets from getting checked in.
 
@@ -44,27 +44,27 @@ https://github.com/thoughtworks/talisman
 
 ### Pre-commit
 
-https://pre-commit.com/
+<https://pre-commit.com/>
 
-**GitHub Topic**: https://github.com/topics/pre-commit
+**GitHub Topic**: <https://github.com/topics/pre-commit>
 
 #### Hooks
 
-- https://pre-commit.com/hooks.html
+- <https://pre-commit.com/hooks.html>
 
 ### Husky
 
-https://typicode.github.io/husky/#/
+<https://typicode.github.io/husky/#/>
 
-**GitHub Topic**: https://github.com/topics/husky
+**GitHub Topic**: <https://github.com/topics/husky>
 
 #### Hooks
 
-- Jira Prepare Commit Msg: https://github.com/bk201-/jira-prepare-commit-msg
+- Jira Prepare Commit Msg: <https://github.com/bk201-/jira-prepare-commit-msg>
 
 ## Overcommit
 
-https://github.com/sds/overcommit
+<https://github.com/sds/overcommit>
 
 > A fully configurable and extendable Git hook manager.
 
