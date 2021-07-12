@@ -22,3 +22,9 @@ During CI if changes are made during the process -- such as when building a stat
     git diff-index --quiet HEAD \
       || git commit -m "Build site."
 ```
+
+----
+
+## Collections
+
+[[#github-actions|collections.gha]]
