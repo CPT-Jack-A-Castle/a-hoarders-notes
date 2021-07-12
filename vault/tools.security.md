@@ -25,3 +25,9 @@ Lynis is a cross platform security auditing platform for UNIX based systems. It 
 https://github.com/1N3/Sn1per
 
 A suite of tools bundled together to do things like pen testing, vulnerability management, application scans, attack surface discovery, and more. From [Xero Security](https://xerosecurity.com/) who appear to have a paid hosted version of this tool.
+
+----
+
+## Collections
+
+[[#security|collections.security]]
