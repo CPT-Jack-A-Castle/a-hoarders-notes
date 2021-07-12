@@ -1,6 +1,6 @@
 ---
 id: rYXJnz807MckQc40Daiiu
-title: GitHub Actions
+title: GitHub Actions Tools
 desc: ''
 updated: 1626060349257
 created: 1626060349257

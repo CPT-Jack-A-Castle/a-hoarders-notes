@@ -6,4 +6,4 @@ updated: 1626061396064
 created: 1626061396064
 ---
 
-Notes about or relating to GitHub Actions.
+Notes about or relating to [[ci.gha]].
