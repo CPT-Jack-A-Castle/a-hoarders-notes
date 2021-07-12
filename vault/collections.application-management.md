@@ -6,4 +6,4 @@ updated: 1626121606066
 created: 1626121606066
 ---
 
-Notes about or relating to git.
+Notes about or relating to application management.
