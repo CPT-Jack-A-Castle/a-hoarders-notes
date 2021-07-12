@@ -5,9 +5,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - master
-  schedule:
-    - cron: 07 11 * * *
+      - main
 
 jobs:
   build-deploy:
