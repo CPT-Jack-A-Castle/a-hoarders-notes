@@ -22,6 +22,10 @@ While I could go through and create plugins to support more of what I need, the
 time tha I have is precious and I'm already familiar with other package
 management tools.
 
+The page listing
+[asdf plugins](https://asdf-vm.com/#/plugins-all?id=plugin-list) has been a
+good resource for finding new tools to hoard.
+
 ----
 
 ## Collections
