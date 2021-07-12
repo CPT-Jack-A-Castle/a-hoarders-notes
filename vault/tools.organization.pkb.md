@@ -17,5 +17,5 @@ created: 1626041223968
 
 ## Collections
 
-[[#personal-knowledgebase|collections.pkb]]
-[[#awesome-lists|collections.awesome-lists]]
+- [[#personal-knowledgebase|collections.pkb]]
+- [[#awesome-lists|collections.awesome-lists]]
