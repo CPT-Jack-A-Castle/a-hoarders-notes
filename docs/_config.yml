@@ -2,17 +2,21 @@
 # theme: "dendron-jekyll"
 #remote_theme: dendronhq/dendron-jekyll
 remote_theme: tomjoht/documentation-theme-jekyll
-title: Dendron
+title: A Hoarders Notes
 logo: "/assets/images/logo.png"
 exclude: [ "node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "*/dendron.template.release.md"
 ]
 footer_content: ""
+url: "https://mkell43.github.io"
+
+plugins:
+  - jekyll-feed
 
 gh_edit_link: false
 
 # seo
-tagline: "A better way to know"
-description: "Dendron is a local-first, markdown based, hierarchical note taking tool. It is meant to help you create, organize, and collaborate on knowledge bases of any size."
+tagline: "Gotta catch 'em all."
+description: "This is my digital garden where I hoard all the interesting things I learn about."
 twitter:
   card: summary
   username: dendronhq

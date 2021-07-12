@@ -22,7 +22,7 @@ site:
     siteRootDir: docs
     usePrettyRefs: true
     title: A Hoarders Notes
-    description: Personal knowledge space
+    description: My digital garden where I hoard all the interesting things I learn about.
     siteUrl: https://mkell43.github.io
     assetsPrefix:  a-hoarders-notes
 initializeRemoteVaults: true
