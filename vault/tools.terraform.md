@@ -35,6 +35,14 @@ value in integrating it into CI.
 Automatically builds documentation for you Terraform modules. Works best when
 used with a git hook or as a part of a CI pipeline.
 
+## Providers
+
+### terraform-provider-confluence
+
+[chesshacker/terraform-provider-confluence](https://github.com/chesshacker/terraform-provider-confluence) | [Docs](https://chesshacker.github.io/terraform-provider-confluence/)
+
+Provides resources to create Confluence pages and attachments.
+
 ----
 
 ## Collections
